@@ -1,0 +1,168 @@
+nav .nav-wrapper{
+    background-color: white;
+    border-bottom: 1px solid #80808045;
+}
+.head {
+    background-color: #3d155f;
+    height: 450px;
+    
+}
+.header-left{
+    width: 50%;
+    padding: 5em 2em;
+
+}
+.About-section {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    margin: 0px auto;
+}
+.About{
+    background-color: #f5f4ff;
+    padding: 40px;
+}
+
+.who-we-are h4 {
+    margin-top: 0px;
+}
+@media screen and (max-width:600px){
+    .head {
+        background-color: red;
+        height: 400px;
+        
+    }
+    .who-we-are-section {
+        width: 90%;
+        margin: 0px auto;
+        flex-direction: column;
+    }
+
+}
+@media screen and (min-width:300px) and (max-width:800px){
+    .head {
+        background-color:#3d155f;
+        height: 510px;
+        width: 100%;
+        
+    }
+    .header-left{
+        width: 70%;
+        padding: 2em 3em;
+    
+    }
+    .who-we-are-section {
+        display: block;
+        align-items: center;
+        width: 90%;
+        margin: 0px auto;
+    }
+
+}
+
+
+.Cta {
+    text-align: center;
+    background-color:#68B259;
+  }
+.Ctaa {
+    text-align: center;
+    background-color:#68B259;
+  }
+  
+.Cta-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+.Ctaa-header {
+    background-color:#68B259;
+    padding: 20px;
+    color: white;
+  }
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .header-text {
+    flex: 1;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .header-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .rounded-button {
+    background-color: black;
+    color: gold;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+
+  .rounded-buttonh {
+    background-color: #3200C8;
+    color: #ffff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+
+  .brand-logo {
+    
+        color: white;
+        font-size: 24px;
+          }
+    
+  
+.icon-button {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: black;
+            border: none;
+            border-radius: 8px;
+            padding: 10px 20px;
+            cursor: pointer;
+          }
+          
+.icon-button img {
+            width: 20px;
+            height: 20px;
+            margin-right: 8px;
+          }
+          
+.foot{
+        margin: 0px auto;
+        flex-direction: column;
+}
+
+  
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  
+.icon-box {
+    text-align: center;
+  }
+  
+.icon {
+    font-size: 36px;
+    color: #3498db;
+  }
+  
+  h3 {
+    margin: 10px 0;
+  }
+  
