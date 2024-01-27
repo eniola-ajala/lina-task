@@ -1,2 +1,2 @@
 # Lina task
-tgis project was
+tgis project was to learn
