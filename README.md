@@ -1,2 +1,2 @@
 # Lina task
-tgis project
+tgis project was
