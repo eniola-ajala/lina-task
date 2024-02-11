@@ -1,2 +1,2 @@
 # Lina task
-This project was to learn
+This project was to
