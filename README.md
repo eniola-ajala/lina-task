@@ -1,3 +1,3 @@
 # Lina task
-## Front
+## Front end
 
